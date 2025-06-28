@@ -169,10 +169,7 @@ https://github.com/DeRuina/AzureProjects/assets/81315494/26e528dd-bf18-4017-8042
 
 ![](videos/nextcloud3.jpg)
 ![](videos/nextcloud2.png)
-
-# **Step 10: If You're Not Using It - DELETE IT! IT COSTS MONEY**!
-
-If you followed my walkthrough just to try Azure for experimental reasons or to learn and develop your skills make sure you remember to delete the Virtual Machine and Bastion at the end of your use because they cost you money on a pay as you use premise. You get 200$ credits when you sign for a free Azure account. Keep them, you can use them later and I will create more walkthroughs for other Azure projects so you can use them there. I deleted everything so for my next project I would start from scratch. 
+ 
 
 # Conclusion
 
